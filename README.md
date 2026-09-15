@@ -4,16 +4,16 @@
 
 This project explores student academic performance using statistical analysis and machine learning techniques.
 
-The analysis focuses on identifying patterns and factors associated with academic performance and evaluating different machine learning approaches for predictive analysis.
+The analysis uses student performance datasets to investigate patterns and relationships between academic performance and relevant student-related factors. The project also applies and compares different classification models for predictive analysis.
 
 ## Objectives
 
 - Explore student academic performance data
-- Perform data preprocessing and preparation
-- Analyse relationships between relevant variables
-- Apply statistical analysis techniques
-- Build and evaluate machine learning models
-- Compare model performance using standard evaluation metrics
+- Prepare and preprocess the datasets for analysis
+- Investigate relationships between student-related factors and academic performance
+- Apply statistical analysis to identify relevant patterns
+- Build classification models for predictive analysis
+- Evaluate and compare model performance using standard metrics
 
 ## Machine Learning Models
 
@@ -36,13 +36,17 @@ The models are evaluated using:
 ## Technologies
 
 - Python
-- Data Analysis
-- Statistical Analysis
-- Machine Learning
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
+
 
 ## Project Status
 
-Portfolio project based on academic learning and project experience. The repository will be developed further with analysis, visualisations, and model evaluation.
+Portfolio version of an academic project. The repository contains the analysis notebook and datasets used in the project.
 
 ## Author
 
