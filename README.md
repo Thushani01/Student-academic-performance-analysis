@@ -43,7 +43,12 @@ The models are evaluated using:
 - Scikit-learn
 - Jupyter Notebook
 
+## How to Run
 
+1. Clone this repository.
+2. Open `student_academic_performance_analysis.ipynb` in Jupyter Notebook.
+3. Make sure the Excel datasets are in the same directory as the notebook.
+4. Run the notebook cells in order.
 ## Project Status
 
 Portfolio version of an academic project. The repository contains the analysis notebook and datasets used in the project.
